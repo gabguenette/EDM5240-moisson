@@ -68,3 +68,8 @@ for n in range(2010,2018):
 		 	#lien=.a["href"]
 
 		 	#print(lien)
+			
+#Bonjour Jean-Hugues,
+
+J'ai travaillé pendant toute la semaine de relâche sur ce projet, mais en vain...Le site de la LHJMQ est très compliqué à moissonner. Comme je l'explique dans mon code,toutes les informations dans le tableau de repêchage ont le même code (avec le même nom de classe et la même balise). Donc, impossible de les différencier, python prend toujours le premier, soit le la ronde... De plus, pour le nom du joueur, j'ai fait la chose que tu m'a dis de faire, mais j'ai toujours un message d'erreur qui revient...(AttributeError: 'NoneType' object has no attribute 'text'). Après plusieurs recherches, je n'ai pas trouvé la façon d'isoler les données. J'ai trouvé une façon, mais je dois pouvoir changer le dernier chiffre du data-reactid pour chaque joueur, une autre chose que je n'ai pas été capable. 
+
